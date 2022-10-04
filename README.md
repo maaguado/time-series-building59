@@ -5,5 +5,5 @@ The dataset is obtained from Building 59 dataset, a three-year dataset supportin
 
 ## 1. Data preprocessing
 The dataset is available for download and is hosted at: https://datadryad.org/stash/dataset/doi:10.7941/D1N33Q.
-Before analysing the data, a cleaning code has been executed on the dataset, more information on this  [repository](https://github.com/LBNL-ETA).
+Before analysing the data, a cleaning code has been executed on the dataset, more information on this  [repository](https://github.com/LBNL-ETA/Data-Cleaning/blob/main/Data%20cleaning_Bldg59.py).
 
