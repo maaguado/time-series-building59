@@ -1,6 +1,6 @@
 # time-series-building59
 
-This repository includes the code for my Bachelor Thesis, named . 
+This repository includes the code for my Bachelor Thesis, named Study of energetic demand with multivariable prediction techniques. 
 The dataset is obtained from Building 59 dataset, a three-year dataset supporting research on building energy management and occupancy analytics, for more information click on this [link](https://www.nature.com/articles/s41597-022-01257-x).
 
 ## 1. Data preprocessing
