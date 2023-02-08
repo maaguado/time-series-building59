@@ -30,6 +30,33 @@ The files in this repository are divided into two stages of development to refle
 * ![DONE](https://img.shields.io/badge/-DONE-green): the corresponding notebook has been completed, but it may still be subject to modifications in order to improve its structure and documentation.
 
 
+### Data cleaning
+
+| File Name | Description | Stage |
+| --- | --- | --- |
+| [Main Cleaning Notebook](https://github.com/maaguado/time-series-building59/blob/main/Data%20Cleaning/data_cleaning.ipynb) | includes initial experiments and final algorithm description and execution in the dataset | ![DONE](https://img.shields.io/badge/-DONE-green) |
+| [Experiment Notebook](https://github.com/maaguado/time-series-building59/blob/main/Data%20Cleaning/experimento.ipynb) | includes preliminary experiments for different types of time series and missing data distribution | ![DONE](https://img.shields.io/badge/-DONE-green) |
+| [Initial Experiment](https://github.com/maaguado/time-series-building59/tree/main/Data%20Cleaning/experimentos/base) | experiment with artificial missing data from 1 to 10 days, it compares how many information we should consider to train the ML algorithms for the imputation | ![DONE](https://img.shields.io/badge/-DONE-green) |
+| [Holes Experiment](https://github.com/maaguado/time-series-building59/tree/main/Data%20Cleaning/experimentos/huecos) | experiment with multiple artificial holes in the data, to test the performance of the ML algorithm vs Prophet with different number of holes | ![DONE](https://img.shields.io/badge/-DONE-green) |
+| [End Experiment](https://github.com/maaguado/time-series-building59/tree/main/Data%20Cleaning/experimentos/final) | experiment to test the performance of the ML algorithm vs Prophet when the missing data is really close to the end of the time series | ![DONE](https://img.shields.io/badge/-DONE-green) |
 
 
 
+
+
+### EDA
+
+| File Name | Description | Stage |
+| --- | --- | --- |
+| [General EDA](https://github.com/maaguado/time-series-building59/blob/main/EDA/EDA_General.ipynb) | Basic plots and statistic properties of all the variables | ![IN PROGRESS](https://img.shields.io/badge/-PENDING-yellow) |
+| [Time Series- Specific EDA](https://github.com/maaguado/time-series-building59/blob/main/EDA/EDA_timeseries.ipynb) | Study of time series properties for the main variable (hvac_N) and study of multivariate time series | ![IN PROGRESS](https://img.shields.io/badge/-PENDING-yellow) |
+
+
+
+### Forecast
+
+
+
+| File Name | Description | Stage |
+| --- | --- | --- |
+| [General Models](https://github.com/maaguado/time-series-building59/blob/main/Forecast/models.ipynb) | Univariate ARIMA and Prophet models on the main variable  | ![IN PROGRESS](https://img.shields.io/badge/-PENDING-yellow) |
