@@ -17,10 +17,10 @@ Unfortunately, due to the large dimensions of the data, we were unable to includ
 
 This project includes the following steps:
 
-Data Cleaning: The original data cleaning code from the paper was not working as expected, so we developed an algorithm that uses ML techniques to interpolate missing data.
-Exploratory Data Analysis: In this step, we analyzed the variables that we will be using using plots and statistical techniques.
-Time Series Analysis: We studied some of the properties specific to time series, such as decomposition, stationarity, etc.
-Prediction and Evaluation: We experimented with multiple forecast algorithms and techniques, such as ARIMA, Prophet, and LSTM.
+- Data Cleaning: The original data cleaning code from the paper was not working as expected, so we developed an algorithm that uses ML techniques to interpolate missing data.
+- Exploratory Data Analysis: In this step, we analyzed the variables that we will be using using plots and statistical techniques.
+- Time Series Analysis: We studied some of the properties specific to time series, such as decomposition, stationarity, etc.
+- Prediction and Evaluation: We experimented with multiple forecast algorithms and techniques, such as ARIMA, Prophet, and LSTM.
 
 ## Repository Structure 
 
