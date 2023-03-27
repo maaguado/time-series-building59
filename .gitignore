@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 experimentos/base/.ipynb_checkpoints/
 .DS_Store
+./Forecast/wandb
